@@ -14,8 +14,9 @@ chris@vitei.com
 
 ## Property Drawers
 Name | Image | Description
------|-------|-------
+-|-|-
 [Highlight Property Drawer](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908) | ![Image](Images/HighlightPropertyDrawer.png) | Simply sets the text/background colour of a field in the inspector. 
+ | | 
 
 ## Decorator Drawers
 
