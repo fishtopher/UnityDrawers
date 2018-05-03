@@ -16,7 +16,7 @@ chris@vitei.com
 
 Image | Name | Description | Creator
 ---|---|---|---
-Image | Name | Description | Creator
+ ![Image](Images/HighlightPropertyDrawer.png) | [Highlight Property Drawer](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908)  | Simply sets the text/background colour of a field in the inspector. | [Chris](https://github.com/fishtopher/) 
  | | | 
 
 ## Decorator Drawers
@@ -26,4 +26,4 @@ Image | Name | Description | Creator
 None Yet | | | 
 
 
- ![Image](Images/HighlightPropertyDrawer.png) | [Highlight Property Drawer](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908)  | Simply sets the text/background colour of a field in the inspector. | [Chris](https://github.com/fishtopher/)
+
