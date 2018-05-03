@@ -1,7 +1,7 @@
 
 ## Property Drawers!
 
-This is a collection of links to lots of lovely property and decorator drawers that can make your Unity life much more pleasant.
+This is a collection of links to lots of lovely property and decorator drawers from aound the internet that can make your Unity life much more pleasant.
 
 ## The Drawers
 
@@ -22,6 +22,7 @@ Name | Creator | Description | Image
 
 ### Contributing
 If you have a lovely drawer that you'd like to share, send me the details, or if you're really into this github thing, submit a pull request with your addition(s).
+If you want me to _remove_ something of yours from here, let me know that too and I'll do it!
 
 #### Why isn't this an actual database or something
 I wanted to see if it was a worthwhile project in the firstplace, and Github.io seemed like a good way to try out the MVP.
