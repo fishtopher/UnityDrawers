@@ -1,0 +1,75 @@
+# ------------- #
+# Image Formats #
+# ------------- #
+*.psd filter=lfs diff=lfs merge=lfs
+*.jpg filter=lfs diff=lfs merge=lfs
+*.png filter=lfs diff=lfs merge=lfs
+*.tga filter=lfs diff=lfs merge=lfs
+*.gif filter=lfs diff=lfs merge=lfs
+*.mp4 filter=lfs diff=lfs merge=lfs
+*.ttf filter=lfs diff=lfs merge=lfs
+*.otf filter=lfs diff=lfs merge=lfs
+*.tif filter=lfs diff=lfs merge=lfs
+
+
+# ---------- #
+# 3D Formats #
+# ---------- #
+*.blend filter=lfs diff=lfs merge=lfs
+*.mb filter=lfs diff=lfs merge=lfs
+*.fbx filter=lfs diff=lfs merge=lfs
+*.obj filter=lfs diff=lfs merge=lfs
+*.dae filter=lfs diff=lfs merge=lfs
+
+# ----------- #
+# Audio Files #
+# ----------- #
+*.wav filter=lfs diff=lfs merge=lfs
+*.aiff filter=lfs diff=lfs merge=lfs
+*.m4a filter=lfs diff=lfs merge=lfs
+
+# ----- #
+# Wwise #
+# ----- #
+*.bnk filter=lfs diff=lfs merge=lfs
+*.pck filter=lfs diff=lfs merge=lfs
+*.wwu binary
+*.validationcache binary
+PaperPlanes/Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine filter=lfs diff=lfs merge=lfs
+PaperPlanes/Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine filter=lfs diff=lfs merge=lfs
+PaperPlanes/Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine filter=lfs diff=lfs merge=lfs
+
+
+# ----------- #
+# Unity Files #
+# ----------- #
+*.guiskin filter=lfs diff=lfs merge=lfs
+*.cubemap filter=lfs diff=lfs merge=lfs
+
+# ------------------ #
+# Misc. Binary Files #
+# ------------------ #
+*.tff filter=lfs diff=lfs merge=lfs
+*.app* filter=lfs diff=lfs merge=lfs
+*.dll filter=lfs diff=lfs merge=lfs
+*.bundle* filter=lfs diff=lfs merge=lfs
+*.so filter=lfs diff=lfs merge=lfs
+*.pdf filter=lfs diff=lfs merge=lfs
+*.pkg filter=lfs diff=lfs merge=lfs
+*.a filter=lfs diff=lfs merge=lfs
+*.exe filter=lfs diff=lfs merge=lfs
+
+
+# ------------#
+# Video Files #
+# ------------#
+*.mov filter=lfs diff=lfs merge=lfs
+Cursor filter=lfs diff=lfs merge=lfs
+Video filter=lfs diff=lfs merge=lfs
+
+
+# -----------#
+# Exceptions #
+# -----------#
+Production/Milestones/Milestone4/Builds/Drive_PS4.zip filter= binary
+*.exr filter=lfs diff=lfs merge=lfs -text
