@@ -7,7 +7,7 @@ This is a collection of links to lots of lovely property and decorator drawers t
 
 Name | Creator | Description | Image 
 ---|---|---|---
-[Conditional Hide/Disable](http://www.brechtos.com/hiding-or-disabling-inspector-properties-using-propertydrawers-within-unity-5/) | [Brecht Lecluyse](http://www.brechtos.com) | Hide or disable fields if other values evaluate to true/false | ![](Images/brechtosConditionalHide.gif)
+[Conditional Hide/Disable](http://www.brechtos.com/hiding-or-disabling-inspector-properties-using-propertydrawers-within-unity-5/) | [Brechtos](http://www.brechtos.com) | Hide or disable fields if other values evaluate to true/false | ![](Images/brechtosConditionalHide.gif)
 [Highlight Basic](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908) | [Chris](https://github.com/fishtopher/) | Sets the text/background of a field to any colour.  | ![](Images/HighlightPropertyDrawer.png)
 [Highlight](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908) | [Lotte](https://gist.github.com/LotteMakesStuff/) | Add some color to you inspectors! mark important property with a bright color so it always stands out, or supply a validation function so highlights show on values that would effect the current ingame logic! | ![](https://gist.githubusercontent.com/LotteMakesStuff/2d3c6dc7a913ed118601db95735574de/raw/6d9b508c7baf2269977dc83a9e70d1102425a1f2/demo.gif)
 [Min Max](https://gist.github.com/LotteMakesStuff/0de9be35044bab97cbe79b9ced695585) | [Lotte](https://gist.github.com/LotteMakesStuff/) | Draw a useful min/max setting slider.   | ![](-) 
