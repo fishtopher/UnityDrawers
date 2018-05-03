@@ -13,9 +13,9 @@ I wanted to see if it was a worthwhile project in the firstplace, and Github.io 
 chris@vitei.com
 
 ## Property Drawers
-Name | Image | Description
--|-|-
-[Highlight Property Drawer](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908) | ![Image](Images/HighlightPropertyDrawer.png) | Simply sets the text/background colour of a field in the inspector. 
+Image | Name | Description | Creator
+---|---|---
+![Image](Images/HighlightPropertyDrawer.png) | [Highlight Property Drawer](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908)  | Simply sets the text/background colour of a field in the inspector. | [Chris](https://github.com/fishtopher/)
  | | 
 
 ## Decorator Drawers
