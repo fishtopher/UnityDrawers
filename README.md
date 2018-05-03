@@ -7,10 +7,12 @@ This is a collection of links to lots of lovely property and decorator drawers f
 
 Name | Creator | Description | Image 
 ---|---|---|---
+[2D Blend](http://vertx.xyz/unity-2d-blend-property-drawer/) | [vertexxyz](http://vertx.xyz) | For picking 2D Values | ![](Images/vertxxyz-blend2D.png)
 [Conditional Hide/Disable](http://www.brechtos.com/hiding-or-disabling-inspector-properties-using-propertydrawers-within-unity-5/) | [Brechtos](http://www.brechtos.com) | Hide or disable fields if other values evaluate to true/false | ![](Images/brechtosConditionalHide.gif)
 [Enum BitMask](https://github.com/prime31/UtilityKit/tree/master/Assets/UtilityKit) | [Prime31](https://github.com/prime31/) | Create a multi-elect dropdown from an Anum filed | ![](-)
 [Highlight Basic](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908) | [Chris](https://github.com/fishtopher/) | Sets the text/background of a field to any colour.  | ![](Images/HighlightPropertyDrawer.png)
 [Highlight](https://gist.github.com/fishtopher/f0caa8bd2c5cc5ed825c7c348dbe8908) | [Lotte](https://gist.github.com/LotteMakesStuff/) | Add some color to you inspectors! mark important property with a bright color so it always stands out, or supply a validation function so highlights show on values that would effect the current ingame logic! | ![](https://gist.githubusercontent.com/LotteMakesStuff/2d3c6dc7a913ed118601db95735574de/raw/6d9b508c7baf2269977dc83a9e70d1102425a1f2/demo.gif)
+[KeyCode picker](http://vertx.xyz/unity-2d-blend-property-drawer/) | [vertexxyz](http://vertx.xyz) | "rebind" keycodes to pick them. | ![](Images/vertexxyz-keycode.gif)
 [Min Max](https://gist.github.com/LotteMakesStuff/0de9be35044bab97cbe79b9ced695585) | [Lotte](https://gist.github.com/LotteMakesStuff/) | Draw a useful min/max setting slider.   | ![](-) 
 [Read Only](https://gist.github.com/LotteMakesStuff/c0a3b404524be57574ffa5f8270268ea) | [Lotte](https://gist.github.com/LotteMakesStuff/) | Add a StatsBar attribute to a property to make it draw a lil bar, really useful for visualizing character stats like Health or Mana.  | ![](-)
 [Stats Bar](https://gist.github.com/LotteMakesStuff/b8853a16de3e680dc1c326fe6f5ebd7e) | [Lotte](https://gist.github.com/LotteMakesStuff/) | Make a field show up as read only in the inspector   | ![](-) 
