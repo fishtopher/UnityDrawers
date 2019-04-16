@@ -7,6 +7,7 @@ This is a collection of links to lots of lovely property and decorator drawers f
 
 Name | Creator | Description | Image 
 ---|---|---|---
+[AutoHook](https://gist.github.com/LotteMakesStuff/d6a9a4944fc667e557083108606b7d22) | [Lotte](https://gist.github.com/LotteMakesStuff/) | The inspector will automagically hook up a valid reference for you if it can find a component attached to the same game object that matches the field you put it on. You can watch a demo of this in action here https://youtu.be/faVt09NGzws <3 | ![]()
 [2D Blend](https://gist.github.com/vertxxyz/5a00dbca58aee033b35be2e227e80f8d) | [vertexxyz](http://vertx.xyz) | For picking 2D Values | ![](Images/vertxxyz-blend2D.png)
 [Conditional Hide/Disable](http://www.brechtos.com/hiding-or-disabling-inspector-properties-using-propertydrawers-within-unity-5/) | [Brechtos](http://www.brechtos.com) | Hide or disable fields if other values evaluate to true/false | [![](Images/brechtosConditionalHide.gif)](Images/brechtosConditionalHide.gif)
 [Enum BitMask](https://github.com/prime31/UtilityKit/tree/master/Assets/UtilityKit) | [Prime31](https://github.com/prime31/) | Create a multi-elect dropdown from an enum filed | ![](-)
